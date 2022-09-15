@@ -8,7 +8,7 @@ Parts used:
 - [MDIB-EP1](https://www.midasdisplays.com/product-explorer/accessories/e-paper-driver-solutions/mdib-ep1)     (adaptor board -- to buy contact <sales@midasdisplays.com>)
 - Wires
 
-![The completed Demo.](/Photos/top_view.jpg "E-Paper Demo")
+![The completed Demo.](Photos/top_view.jpg "E-Paper Demo")
 
 [0]: <https://www.farnell.com/datasheets/2822932.pdf>
 [1]: <https://uk.farnell.com/midas/mde0213a122250bw/e-paper-display-122-x-250-pixels/dp/3154926> "MDE0213A122250BW from Midas Displays"
