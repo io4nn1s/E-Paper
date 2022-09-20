@@ -1,4 +1,7 @@
 # E-Paper Demo
+
+![GitHub repo size](https://img.shields.io/github/issues/io4nn1s/E-Paper?logo=github) ![GitHub Repo stars](https://img.shields.io/github/stars/io4nn1s/E-Paper?logo=github) ![CERN-OHL-P v2](https://img.shields.io/badge/license-MIT_License-brightgreen)
+
 This is a demo project for a monochrome 2.13" E-Paper display using an Adafruit Pro Trinket 3V (ATmega328p) microcontroller.
 The demo emulates an application with date, time and battery indication.
 
